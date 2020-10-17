@@ -3,4 +3,4 @@ LEARN HTML
 
 ## HTML Tutorial
 
-HTML - Hypertext Markup Language
+HTML is Hypertext Markup Language. It is used to build websites. Anyone who wants to learn to build websites, learning HTML is a must. 

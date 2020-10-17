@@ -8,12 +8,12 @@ A single HTML web page has mainly some essential parts- `html, head, body`. Here
 ```
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
- Web contents will go here
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    Web contents will go here
 
-</body>
+  </body>
 </html>
 ```

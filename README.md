@@ -3,6 +3,8 @@ LEARN HTML
 
 ## HTML Tutorial
 
+## First part (for the Beginners)
+
 HTML is Hypertext Markup Language. It is used to build websites. Anyone who wants to learn to build websites, learning HTML is a must. 
 A single HTML web page has mainly some essential parts- `html, head, body`. Here is a basic formation of HTML pages
 ```
@@ -21,7 +23,17 @@ A single HTML web page has mainly some essential parts- `html, head, body`. Here
 Here `<!Doctype html>` indicates that it's HTML5 version. 
 
 
-HTML codes are wrapped inside `<html> and </html>` tag. <br/>
+HTML codes and all the part of the pages are wrapped inside `<body> and </body>` tag. <br/>
+And this `body` is wrapped inside the main `<html> and </html>` tags, like this <br/>
+```
+<html>
+<body>
+All your contents will be here inside the body
+
+</body>
+</html>
+```
+
 HTML contents are wrapped in other html tags. Every tag has an opening and a closing tag except only a few of them, at the same time this type of tag has self closing tag. <br/>
 `<>` this is an opening tag mark and `</>` this is a closing tag mark. <br/>
 So if we want to use the html tag in our page we need to use it in such way <br/>

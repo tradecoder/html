@@ -33,3 +33,19 @@ So if we want to use the html tag in our page we need to use it in such way <br/
 
 </html>
 ```
+
+We'll discuss more about HTML tags later. Now let's see some most common used tags for the beginners <br/>
+
+`<div> </div>` This div (division) tag is used to wrap a bunch of code, or a part of the page to make it separate from other contents.<br/>
+`<h1> </h1>` This h1 (Header 1) tag is used to make a Heading text of some specified contents. <br/>
+There are also some other Header tags, `h2, h3, h4, h5 and h6`. All it's just text size matter. Let's see how they look like<br/>
+# This is a h1 tag
+## This is a h2 tag
+### This is a h3 tag
+#### This is a h4 tag
+##### This is h5 tag
+###### This is a h6 tag
+`<p> </p>` This p (paragraph) tag is used to write some content as in paragraph. <br/>
+``
+
+

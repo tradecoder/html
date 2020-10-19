@@ -27,7 +27,9 @@ HTML contents are wrapped in other html tags. Every tag has an opening and a clo
 So if we want to use the html tag in our page we need to use it in such way <br/>
 ```
 <html>
-// here above is with the opening tag
-// and below is with the closing
+
+<!-- here above is with the opening tag -->
+<!-- and below is with the closing -->
+
 </html>
 ```

@@ -28,7 +28,7 @@ And this `body` is wrapped inside the main `<html> and </html>` tags, like this 
 ```
 <html>
 <body>
-All your contents will be here inside the body
+   All your contents will be here inside the body
 
 </body>
 </html>
@@ -40,8 +40,8 @@ So if we want to use the html tag in our page we need to use it in such way <br/
 ```
 <html>
 
-<!-- here above is with the opening tag -->
-<!-- and below is with the closing -->
+  here above is with the opening tag
+  and below is with the closing tag
 
 </html>
 ```

@@ -33,4 +33,3 @@ So if we want to use the html tag in our page we need to use it in such way <br/
 
 </html>
 ```
-[//]: # (This may be the most platform independent comment)

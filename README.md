@@ -72,6 +72,6 @@ Here is the output <br/>
 
 # It's Awesome!
 We have learnt the basic HTML and we are now able to build an HTML page.<br/>
-<button type="button">Next </button>
+[Next](#)
 
 

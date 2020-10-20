@@ -10,14 +10,17 @@ A single HTML web page has mainly some essential parts- `html, head, body`. Here
 ```
 <!DOCTYPE html>
 <html>
-
   <head>
     <title>Page Title</title>
   </head>
   
   <body>
-    Web contents will go here
-  </body>
+  
+    Web contents will go here inside the body
+    
+  
+  
+  </body>  
 </html>
 ```
 An HTML page must start with `<!DOCTYPE html>` <br/>

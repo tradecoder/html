@@ -17,7 +17,8 @@ A single HTML web page has mainly some essential parts- `html, head, body`. Here
   <body>
   
     Web contents will go here inside the body
-    
+    Web contents will go here inside the body
+    Web contents will go here inside the body    
   
   
   </body>  

@@ -26,33 +26,21 @@ Then all the contents will be placed inside `<body> and </body>` tag.</br>
 
 
 
-
-HTML codes and all the part of the pages are wrapped inside `<body> and </body>` tag. <br/>
-And this `body` is wrapped inside the main `<html> and </html>` tags, like this <br/>
-```
-<html>
-<body>
-   All your contents will be here inside the body
-
-</body>
-</html>
-```
-
-HTML contents are wrapped in other html tags. Every tag has an opening and a closing tag except only a few of them, at the same time this type of tag has self closing tag. <br/>
+HTML elements are wrapped in some specific tags. Every tag has an opening and a closing tag except only a few of them, at the same time this type of tag is self closing tag. <br/>
 `<>` this is an opening tag mark and `</>` this is a closing tag mark. <br/>
 So if we want to use the html tag in our page we need to use it in such way <br/>
 ```
 <html>
 
-  here above is with the opening tag
-  and below is with the closing tag
+  Above is with the opening tag
+  And below is with the closing tag
 
 </html>
 ```
 
-We'll discuss more about HTML tags later. Now let's see some most common used tags for the beginners <br/>
+We'll discuss more about the tags later. Now let's see some most common used tags for displaying the elements <br/>
 
-`<div> </div>` This div (division) tag is used to wrap a bunch of code, or a part of the page to make it separate from other contents.<br/>
+`<div> </div>` This div (division) tag is used to wrap a bunch of code, or a part of the page to make it separate/devide from other contents.<br/>
 `<h1> </h1>` This h1 (Header 1) tag is used to make a Heading text of some specified contents. <br/>
 There are also some other Header tags, `h2, h3, h4, h5 and h6`. All it's just text size matter. Let's see how they look like<br/>
 # This is the text size of h1 header

@@ -50,6 +50,24 @@ There are also some other Header tags, `h2, h3, h4, h5 and h6`. All it's just te
 ##### This is the text size of h5 header
 ###### This is the text size of h6 header
 `<p> </p>` This p (paragraph) tag is used to write some content as in paragraph. <br/>
+`<button> </button>` This button tag creates a button.<br/>
+
+Now let's build our first HTML page with the above knowledge. Here is the code
+```
+<!DOCTYPE html>
+<html>
+  <body>
+  
+    <div>
+        <h1>It's Awesome!</h1>
+        <p>We have learnt the basic of HTML and we are now able to build an HTML page</p>
+        <button>Next </button>
+    </div>  
+  
+  
+  </body>  
+</html>
+```
 
 
 

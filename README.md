@@ -3,7 +3,7 @@ LEARN HTML
 
 ## HTML Tutorial
 
-## First part (for the Beginners)
+## HTML Basic (for the Beginners)
 
 HTML is Hypertext Markup Language. It is used to build websites. Anyone who wants to learn to build websites, learning HTML is a must. 
 A single HTML web page has mainly some essential parts- `html, head, body`. Here is a basic formation of HTML pages

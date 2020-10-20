@@ -20,7 +20,11 @@ A single HTML web page has mainly some essential parts- `html, head, body`. Here
   </body>
 </html>
 ```
-Here `<!Doctype html>` indicates that it's HTML5 version. 
+An HTML page must start with `<!DOCTYPE html>` <br/>
+Then the document must start with `<html>` tag and end with </html> tag. </br>
+Then all the contents will be placed inside `<body> and </body>` tag.</br>
+
+
 
 
 HTML codes and all the part of the pages are wrapped inside `<body> and </body>` tag. <br/>

@@ -71,7 +71,7 @@ Now let's build our first HTML page with the above knowledge. Here is the code
 Here is the output <br/>
 
 # It's Awesome!
-We have learnt the basic HTML and we are now able to build an HTML page.
-<button>Next </button>
+We have learnt the basic HTML and we are now able to build an HTML page.<br/>
+<button type="button">Next </button>
 
 

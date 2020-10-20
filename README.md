@@ -60,7 +60,7 @@ Now let's build our first HTML page with the above knowledge. Here is the code
   
     <div>
         <h1>It's Awesome!</h1>
-        <p>We have learnt the basic of HTML and we are now able to build an HTML page</p>
+        <p>We have learnt the basic HTML and we are now able to build an HTML page.</p>
         <button>Next </button>
     </div>  
   
@@ -68,6 +68,10 @@ Now let's build our first HTML page with the above knowledge. Here is the code
   </body>  
 </html>
 ```
+Here is the output <br/>
 
+# It's Awesome!
+We have learnt the basic HTML and we are now able to build an HTML page.
+<button>Next </button>
 
 

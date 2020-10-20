@@ -61,8 +61,15 @@ Now let's build our first HTML page with the above knowledge. Here is the code
     <div>
         <h1>It's Awesome!</h1>
         <p>We have learnt the basic HTML and we are now able to build an HTML page.</p>
-        <button>Next Button</button>
+        <button>First Button</button>
     </div>  
+    
+    
+    <div>
+        <h2>It's very interesting!</h2>
+        <p>We are making it more.</p>
+        <button>Next Button</button>
+    </div> 
   
   
   </body>  
@@ -72,6 +79,10 @@ Here is the output <br/>
 
 # It's Awesome!
 We have learnt the basic HTML and we are now able to build an HTML page.<br/>
+[First Button](#)
+
+## It's very interesting!
+We are making it more. <br/>
 [Next Button](#)
 
 

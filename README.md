@@ -106,4 +106,5 @@ That `id` inside the opening `div` tag separated by a space is an HTML attribute
 This way, inside an opening tag of every element different HTML attributes are to set for different requirements. Now let's add an id attribute to the `p` element<br/>
 `<p id="my-first-paragraph">      </p>`<br/>
 Hope it makes sense about HTML attributes. <br/>
+
 Okay, now to see how we can add an image in our web page<br/>

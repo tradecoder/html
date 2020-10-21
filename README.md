@@ -76,7 +76,7 @@ Now let's build our first HTML page with the above knowledge. Here is the code
 </html>
 ```
 Here is the output <br/>
--------------------------------------------------------------------------------
+`-------------------------------------------------------------------------------`
 # It's Awesome!
 We have learnt the basic HTML and we are now able to build an HTML page.<br/>
 [First Button](#)
@@ -85,4 +85,4 @@ We have learnt the basic HTML and we are now able to build an HTML page.<br/>
 We are making it more. <br/>
 [Next Button](#)
 
--------------------------------------------------------------------------------
+`-------------------------------------------------------------------------------`

@@ -114,4 +114,4 @@ An image is to put in a web page with `img` tag with a `src` attribute ( (image 
 We are going to place an image here with a valid url, look at this code <br/>
 `<img src="https://avatars3.githubusercontent.com/u/49298305?s=400&u=21066f4ea0f0dbd76437d375e7f73a4c514e7b3a&v=4" />`
 An the output is 
-[tradeoder-image](https://avatars3.githubusercontent.com/u/49298305?s=400&u=21066f4ea0f0dbd76437d375e7f73a4c514e7b3a&v=4)
+[tradeoder-image](https://avatars3.githubusercontent.com/u/49298305?s=400&u=21066f4ea0f0dbd76437d375e7f73a4c514e7b3a&v=4?raw=true)

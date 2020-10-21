@@ -115,4 +115,3 @@ We are going to place an image here with a valid url, look at this code <br/>
 `<img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" />`<br/>
 An the output is <br/>
 <img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" width="200px"/>
-![tradeoder-image](https://github.com/tradecoder/html/blob/main/images/tradecoder.png?width=200)

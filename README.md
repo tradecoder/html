@@ -107,4 +107,5 @@ This way, inside an opening tag of every element different HTML attributes are t
 `<p id="my-first-paragraph">      </p>`<br/>
 Hope it makes sense about HTML attributes. <br/>
 
-Okay, now to see how we can add an image in our web page<br/>
+Okay, now to see how we can add an image in our web page:<br/>
+An image is to put in a web page with 'img' tag with a `src` attribute ( (image source / path)). Here's an example <br/>

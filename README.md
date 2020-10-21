@@ -92,3 +92,14 @@ more and more.<br/>
 So, now you can build a web page with a large content by adding some more `div` and then other necessary elements. Try yourself to create a large page with your own contents. <br/>
 
 ## Let's move forward
+Now we'll learn about some HTML attributes.<br/>
+If you look at the above codes, you'll find there are two `<div>`. In a real web page you'll find there many `div` many `p` and so on. Now, think if I tell you to work on a `div`, how will you find that specific `div` or other elements? Any idea? Yes, there is a way! We need some reference, right? So, we can do this by giving an identity to every `div` so that we can refer it easily. In HTML identity is defined by an `id` attribute. Let's see how to add it<br/>
+
+```
+<div id="home">          </div>
+
+<div id="learn">          </div>
+
+<div id="earn">      </div>
+```
+That `id` inside the opening `div` tag separated by a space is an HTML attribute and the names inside that quote marks are the `value` of the attributes.   

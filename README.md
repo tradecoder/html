@@ -68,6 +68,7 @@ Now let's build our first HTML page with the above knowledge. Here is the code
     <div>
         <h2>It's very interesting!</h2>
         <p>We are making it more.</p>
+        <p>more and more.</p>
         <button>Next Button</button>
     </div> 
   
@@ -83,6 +84,9 @@ We have learnt the basic HTML and we are now able to build an HTML page.<br/>
 
 ## It's very interesting!
 We are making it more. <br/>
+more and more.<br/>
 [Next Button](#)
 
-`-------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------` 
+
+So, now you can build a web page with a large content by adding some more `div` and then other necessary elements. Try yourself to create a large page with your own contents. <br/>

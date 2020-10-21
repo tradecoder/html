@@ -102,8 +102,8 @@ If you look at the above codes, you'll find there are two `<div>`. In a real web
 
 <div id="earn">      </div>
 ```
-That `id` inside the opening `div` tag separated by a space is an HTML attribute and the names inside that quote marks are the `value` of the attributes.<br/>
-This way, inside an opening tag of every element different HTML attributes are to set for different requirements. Now let's add an id attribute to the `p` element. Remember, you must put the `name value` for `id` attribute starting with an alphabet, never with a number<br/>
+That `id` inside the opening `div` tag separated by a space is an HTML attribute and the names inside that quote marks are the `value` of the attributes. Remember, you must put the `name value` for `id` attribute starting with an alphabet, never with a number.<br/>
+This way, inside an opening tag of every element different HTML attributes are to set for different requirements. Now let's add an id attribute to the `p` element.<br/>
 `<p id="my-first-paragraph">      </p>`<br/>
 Hope it makes sense about HTML attributes. <br/>
 

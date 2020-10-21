@@ -108,4 +108,7 @@ This way, inside an opening tag of every element different HTML attributes are t
 Hope it makes sense about HTML attributes. <br/>
 
 Okay, now to see how we can add an image in our web page:<br/>
-An image is to put in a web page with 'img' tag with a `src` attribute ( (image source / path)). Here's an example <br/>
+An image is to put in a web page with `img` tag with a `src` attribute ( (image source / path)). Here's an example <br/>
+`<img src="put the image source url here" />` <br/>
+We are going to place an image here with a valid url, look at this code <br/>
+`<img src="https://avatars3.githubusercontent.com/u/49298305?s=400&u=21066f4ea0f0dbd76437d375e7f73a4c514e7b3a&v=4" />`

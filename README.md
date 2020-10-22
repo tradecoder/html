@@ -117,6 +117,6 @@ An the output is: <br/>
 <img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" width="200px"/> <br/>
 
 So, now, we are able to build a web page with some contents, buttons and images. And before we move forward, we'll learn to apply some styles in our page. There are different ways to do it, but for this time we'll learn it with `style` attribute. Here is an example:<br/>
-`<div style="background-color:blue">     </div>`
-
+`<div style="background-color:blue">     </div>`<br/>
+As we can see, here we applied `style` attribute and the background color of the div set to red, that means it will make a red color div. <br/> 
 

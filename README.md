@@ -124,6 +124,13 @@ Here the div will be blue color. You also can make it `black, white, orange, tom
 Now let's add some more value to the `sytle` attribute to make more sense,
 `<div style="background-color:blue; width:500px; height:300px;">     </div>`<br/>
 This `div` will be a blue color div, its width will be 500px and height will be 300px. We can make different size of div in this way by changing its value as our own.  <br/>
+Let's learn one more style, when you say `color` it applies for text/font color, and when you say `background-color` it applies for the background. Let's see an example: <br/>
+```
+<div style="background-color:blue; width:500px; height:300px;">     
+<h1 style="color:white"> Hello </h1>
+</div>
+```
+Gues the output. The div will be blue color but the text will be white color. Interesting? Yes, now we need to make well designed web page. 
 
 
 

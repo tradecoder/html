@@ -117,6 +117,13 @@ An the output is: <br/>
 <img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" width="200px"/> <br/>
 
 So, now, we are able to build a web page with some contents, buttons and images. And before we move forward, we'll learn to apply some styles in our page. There are different ways to do it, but for this time we'll learn it with `style` attribute. Here is an example:<br/>
-`<div style="background-color:blue">     </div>`<br/>
+`<div style="background-color:red">     </div>`<br/>
 As we can see, here we applied `style` attribute and the background color of the div set to red, that means it will make a red color div. <br/> 
+`<div style="background-color:blue">     </div>`<br/>
+Here the div will be blue color. You also can make it `black, white, orange, tomato, silver, gray` and so on. <br/>
+Now let's add some more value to the `sytle` attribute to make more sense,
+`<div style="background-color:blue; width:500px; height:300px;">     </div>`<br/>
+This `div` will be a blue color div, its width will be 500px and height will be 300px. We can make different size of div in this way by changing its value as our own.  
+
+
 

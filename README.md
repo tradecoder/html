@@ -113,5 +113,7 @@ An image is to put in a web page with `img` tag with a `src` attribute ( (image 
 
 We are going to place an image here with a valid url, look at this code <br/>
 `<img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" />`<br/>
-An the output is <br/>
-<img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" width="200px"/>
+An the output is: <br/>
+<img src="https://github.com/tradecoder/html/blob/main/images/tradecoder.png" width="200px"/> <br/>
+
+So, now, we are able to build a web page with some contents, buttons and images.

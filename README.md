@@ -138,20 +138,20 @@ Now, let's build a page following this pattern. We'll put all the necessary code
 ```
 <body>
 
-<header style="background-color:blue; width:100%; height:80px;">
-<h1>Our first web page</h1>
-</header>
+  <header style="background-color:blue; width:100%; height:80px;">
+      <h1>Our first web page</h1>
+  </header>
 
-<div style="background-color:white; width:100%;">
-<p>Here will go our text contents</p>
-<p>More contents here</p>
-<p>More topics here</p>
-</div>
+  <div style="background-color:white; width:100%;">
+      <p>Here will go our text contents</p>
+      <p>More contents here</p>
+      <p>More topics here</p>
+  </div>
 
 
-<footer style="width:100%;">
-<p>By : your name here</p>
-</footer>
+  <footer style="width:100%;">
+      <p>By : your name here</p>
+  </footer>
 
 </body>
 ```

@@ -133,9 +133,11 @@ Let's learn one more style, when you say `color` it applies for text/font color,
 Gues the output. The div will be blue color but the text will be white color. Interesting? Yes, now we need to make well designed web page. First we need to make a plan how our page will look like. Here is a pattern, we'll work on it. <br/>
 <img src="https://github.com/tradecoder/html/blob/main/images/webpage-pattern.jpg" > <br/>
  
-Now, let's build a page following this pattern <br/>
+Now, let's build a page following this pattern. We'll put all the necessary codes inside the `body` tag. Then we'll use a `header` tag for header contents, `div` tag for body contents and `footer` tag for footer contents <br/>
 
 ```
+<body>
+
 <header style="background-color:blue; width:100%; height:80px;">
 <h1>Our first web page</h1>
 </header>
@@ -150,6 +152,8 @@ Now, let's build a page following this pattern <br/>
 <footer style="width:100%;">
 <p>By : your name here</p>
 </footer>
+
+</body>
 ```
 
 

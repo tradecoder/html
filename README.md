@@ -131,6 +131,7 @@ Let's learn one more style, when you say `color` it applies for text/font color,
 </div>
 ```
 Gues the output. The div will be blue color but the text will be white color. Interesting? Yes, now we need to make well designed web page. First we need to make a plan how our page will look like. Here is a pattern, we'll work on it. 
+<img src="https://github.com/tradecoder/html/blob/main/images/webpage-pattern.jpg" width="300px"/> <br/>
  
 
 

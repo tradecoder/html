@@ -155,5 +155,5 @@ Now, let's build a page following this pattern. We'll put all the necessary code
 
 </body>
 ```
-
+Well, so far we've learnt the basic HTML code writing system. Now we are going to explain more about it but before that we'll learn some basic styles of HTML with stylesheet called CSS or Cascading Style Sheets. 
 

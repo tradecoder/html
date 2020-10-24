@@ -160,7 +160,7 @@ Well, so far we've learnt the basic HTML code writing system. Now we are going t
 ## Let's learn some basic CSS (internal CSS) 
 Internal CSS is to write inside `<style>  </style>` tags and this is wrap inside `<head>  </head>` tags before the `<body>` tag. Here is an example <br/>
 
-````
+```
 <!Doctype html>
 <html>
   <head>
@@ -174,5 +174,5 @@ Internal CSS is to write inside `<style>  </style>` tags and this is wrap inside
 
   </body>
 </html>
-```
 
+```

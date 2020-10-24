@@ -176,3 +176,36 @@ Internal CSS is to write inside `<style>  </style>` tags and this is wrap inside
 </html>
 
 ```
+Now we need to know how to write some basic CSS. Let's see <br/>
+We have already learnt some basic htmls tags, like `body, div, p, button` right? So, it will be easy to get the point of writing CSS. Look the below pattern first <br/>
+```
+<style>
+body{ background-color:green; }
+
+</style>
+```
+Styles used for body and the system is to first write the tag name then {} and style rules in the {}. Got it? Now, let's see some more examples<br/>
+```
+body{background-color:green;}
+h1{color:white;}
+```
+Could you tell us what will happen to this? The page body background color will be green and the text color in h1 will be white. Here is the full code<br/>
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    body{background-color:green}
+    h1{color:white}
+    p{color:black}
+    </style>
+  </head>
+  <body>
+  
+  <h1>This will be white color title in  </h1>
+  <p>Here will be black color text </p>  
+  
+  </body>  
+</html>
+
+```

@@ -195,15 +195,16 @@ Could you tell us what will happen to this? The page body background color will 
 <html>
   <head>
     <style>
-    body{background-color:green}
-    h1{color:white}
-    p{color:black}
+      body{background-color:green}
+      h1{color:white}
+      p{color:black}
     </style>
   </head>
   <body>
   
-  <h1>This will be white color title in  </h1>
+  <h1>This will be white color title </h1>
   <p>Here will be black color text </p>  
+  <p>And all the body background color will be green</p>
   
   </body>  
 </html>

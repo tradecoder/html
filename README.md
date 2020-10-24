@@ -149,7 +149,7 @@ Now, let's build a page following this pattern. We'll put all the necessary code
   </div>
 
 
-  <footer style="width:100%;">
+  <footer style="width:100%; background-color:red;">
       <p>By : your name here</p>
   </footer>
 

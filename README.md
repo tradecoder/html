@@ -155,5 +155,24 @@ Now, let's build a page following this pattern. We'll put all the necessary code
 
 </body>
 ```
-Well, so far we've learnt the basic HTML code writing system. Now we are going to explain more about it but before that we'll learn some basic styles of HTML with stylesheet called CSS or Cascading Style Sheets. 
+Well, so far we've learnt the basic HTML code writing system. Now we are going to explain more about it but before that we'll learn some basic styles of HTML with stylesheet called CSS or Cascading Style Sheets. We can do it in different ways, but we'll use internal CSS for this time. <br/>
+
+## Let's learn some basic CSS (internal CSS) 
+Internal CSS is to write inside `<style>  </style>` tags and this is wrap inside `<head>  </head>` tags before the `<body>` tag. Here is an example <br/>
+
+````
+<!Doctype html>
+<html>
+  <head>
+    <style>
+       All your internal CSS will go here as explained above
+    </style>
+  </head>
+
+  <body>
+
+
+  </body>
+</html>
+```
 

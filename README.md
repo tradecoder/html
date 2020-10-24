@@ -203,9 +203,9 @@ Could you imagine what will happen to this? The page `body` background color wil
   </head>
   <body>
   
-  <h1>This will be white color title </h1>
-  <p>Here will be black color text </p>  
-  <p>And all the body background color will be green</p>
+    <h1>This will be white color title </h1>
+    <p>Here will be black color text </p>  
+    <p>And all the body background color will be green</p>
   
   </body>  
 </html>

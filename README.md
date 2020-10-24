@@ -188,8 +188,9 @@ Styles used for body and the system is to first write the tag name then {} and s
 ```
 body{background-color:green;}
 h1{color:white;}
+p{color:black;}
 ```
-Could you tell us what will happen to this? The page body background color will be green and the text color in h1 will be white. Here is the full code<br/>
+Could you imagine what will happen to this? The page `body` background color will be green and the text color in `h1` will be white, and text in `p` will be black. Here is the full code<br/>
 ```
 <!DOCTYPE html>
 <html>

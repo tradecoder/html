@@ -221,6 +221,10 @@ div{
    margin-right:20px;
    margin-bottom:50px;
    margin-left:20px;
+   padding-top:30px;
+   padding-right:30px;
+   padding-bottom:30px;
+   padding-left:30px;
    }
    
    

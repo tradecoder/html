@@ -196,9 +196,9 @@ Could you imagine what will happen to this? The page `body` background color wil
 <html>
   <head>
     <style>
-      body{background-color:green}
-      h1{color:white}
-      p{color:black}
+      body{background-color:green;}
+      h1{color:white;}
+      p{color:black;}
     </style>
   </head>
   <body>
@@ -211,3 +211,4 @@ Could you imagine what will happen to this? The page `body` background color wil
 </html>
 
 ```
+We also can use multiple CSS properties and values for a single element, see the example below:

@@ -211,4 +211,7 @@ Could you imagine what will happen to this? The page `body` background color wil
 </html>
 
 ```
-We also can use multiple CSS properties and values for a single element, see the example below:
+We also can use multiple CSS properties and values with a semiclone separated applied to a single element, see the example below:
+```
+div{background-color:red; color:white; width:500px; height:300px;}
+```

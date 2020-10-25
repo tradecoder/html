@@ -213,5 +213,20 @@ Could you imagine what will happen to this? The page `body` background color wil
 ```
 We also can use multiple CSS properties and values with a semiclone separated applied to a single element, see the example below:
 ```
-div{background-color:red; color:white; width:500px; height:300px;}
+div{
+   background-color:red; 
+   width:500px; 
+   height:300px;
+   margin-top:50px;
+   margin-right:20px;
+   margin-bottom:50px;
+   margin-left:20px;
+   }
+   
+   
+p{
+color:white; 
+font-size:20px;
+}
 ```
+If you see the codes above carefully, hope you will get a clear concept about it. 

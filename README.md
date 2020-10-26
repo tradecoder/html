@@ -241,7 +241,7 @@ Do you think you can move forward to learn more? <br/>
 If your answer is 'no', we would recommend to revise it again and again. <br/>
 And if your answer is 'yes', let's start learning all about web development from the basic to advance level with `W3SCHOOLS` at [w3schools.com](https://w3schools.com/). <br/> 
 
-When you will mostly complete HTML and CSS at w3schools, to advance to your learning don't forget to join here [freeCodeCamp](https://freecodecamp.com). It will help you to guide yourself on the way to become a real Developer. You will be able to build projects and you'll get Certificates! You just need to be consistent in coding, no matter if it's less or more a day. 
+When you will mostly complete HTML and CSS at w3schools, to advance to your learning don't forget to join here [freeCodeCamp](https://freecodecamp.com/). It will help you to guide yourself on the way to become a real Developer. You'll be able to build projects and you'll get valuable Certificates! You just need to be consistent in coding, no matter if it's less or more a day. 
 
 Wish you all the best. Happy Coding! 
 

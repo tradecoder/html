@@ -236,3 +236,5 @@ font-size:20px;
 If you see the codes above carefully, hope you will get a clear concept about it. <brl/>
 
 ## Let's go back to HTML part again
+Are you ready? Do you think you can move forward to learn more? If your answer is 'no', we would recommend to revise it again and again. And if your answer is 'yes', let's start learning all about web development from the basic to advance level with `W3SCHOOLS` at [w3schools.com](https://w3schools.com/). Wish you all the best. 
+

@@ -238,5 +238,8 @@ If you see the codes above carefully, hope you will get a clear concept about it
 ## Let's go back to HTML part again
 Are you ready? <br/>
 Do you think you can move forward to learn more? <br/>
-If your answer is 'no', we would recommend to revise it again and again. And if your answer is 'yes', let's start learning all about web development from the basic to advance level with `W3SCHOOLS` at [w3schools.com](https://w3schools.com/). Wish you all the best. 
+If your answer is 'no', we would recommend to revise it again and again. <br/>
+And if your answer is 'yes', let's start learning all about web development from the basic to advance level with `W3SCHOOLS` at [w3schools.com](https://w3schools.com/). <br/> 
+
+Wish you all the best. Happy Coding! 
 
